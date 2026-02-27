@@ -1,0 +1,42 @@
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
+error: signed integer overflow handling differs in PCH file vs. current file
+1 error generated.
